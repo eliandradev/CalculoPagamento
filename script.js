@@ -1,3 +1,4 @@
+// Calculo de Preço
 const precoEtiqueta = 100;
 const condicaoPagamento = 1;
 
